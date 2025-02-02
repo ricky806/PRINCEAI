@@ -25,9 +25,9 @@ global.confirmCode = ""
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923092668108'] 
-global.prems = ['923092668108']
-global.allowed = ['923092668108']
+global.mods = ['918536881026'] 
+global.prems = ['918536881026']
+global.allowed = ['918536881026']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -123,7 +123,7 @@ global.princeImg = [imagen1, imagen2]
 //Change to false to use the Bot from the same number as the Bot.
 global.isBaileysFail = false
 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/+919153068527' //contact
 //💌------------------------------------------💌
 
 
@@ -131,15 +131,15 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //Sticker WM
 global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '🛡️𝛥𝐿𝛯𝛸-𝛲𝛪𝛫𝑈-𝛭𝐷🛡️'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
+global.author = ' 𝙰𝙻𝙴𝚇 𝙿𝙸𝙺𝚄' 
+global.princeig = '' 
+global.princegp = ''
+global.menuvid = 'https://qu.ax/UHAJC.mp4'
+global.Princesc = 'https://github.com/ricky806/PRINCEAI' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://qu.ax/ZfXCR.jpg'
 global.thumb = fs.readFileSync('./lib/source/Prince.png')
 //💌------------------------------------------💌
 
@@ -163,7 +163,7 @@ dotenv.config()
 
 const ownervb = process.env.OWNER_NUMBER;
 if (!ownervb){
-   throw new Error("OWNER_NUMBER var env is not set please set it e.g 923092668108,Prince");
+   throw new Error("OWNER_NUMBER var env is not set please set it e.g 918536881026,alexpiku");
 }
 
 const ownerlist = ownervb.split(',');
