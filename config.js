@@ -25,9 +25,9 @@ global.confirmCode = ""
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['918536881026'] 
-global.prems = ['918536881026']
-global.allowed = ['918536881026']
+global.mods = ['923092668108'] 
+global.prems = ['923092668108']
+global.allowed = ['923092668108']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -39,7 +39,7 @@ global.itsrose = ['4b146102c4d500809da9d1ff']
 global.baileys = '@whiskeysockets/baileys'
 global.apis = 'https://delirius-apiofc.vercel.app'
 global.openai_key = 'sk-...OzYy' /* Get your ApiKey at this link: https://platform.openai.com/account/api-keys */
-global.openai_org_id = '0029VaWWlqwBVJl0jljvSd2w'
+global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
 //💌------------------------------------------💌
 
 
@@ -87,7 +87,7 @@ global.APIKeys = {
   // 'https://website': 'apikey'
    'https://api.fgmods.xyz': 'm2XBbNvz',
   'https://api.xteam.xyz': 'd90a9e986e18778b',
-  'https://api.lolhuman.xyz': '0029VaWWlqwBVJl0jljvSd2w',
+  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://api.neoxr.my.id': `${keysneoxr}`,
   'https://violetics.pw': 'beta',
   'https://zenzapis.xyz': `${keysxxx}`
@@ -99,15 +99,15 @@ global.APIKeys = {
 
 
 // Bot Images 
-global.imagen1 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
-global.imagen2 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
+global.imagen1 = fs.readFileSync("./lib/source/menus/img1.jpg")
+global.imagen2 = fs.readFileSync("./lib/source/menus/img2.jpg")
 //💌------------------------------------------💌
 
 
 
-global.imag1 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
-global.imag2 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
-global.imag3 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
+global.imag1 = fs.readFileSync("./lib/source/prn.png")
+global.imag2 = fs.readFileSync("./lib/source/prn1.png")
+global.imag3 = fs.readFileSync("./lib/source/prn2.jpg")
 
 global.pimg = [imag1, imag2, imag3]
 
@@ -123,7 +123,7 @@ global.princeImg = [imagen1, imagen2]
 //Change to false to use the Bot from the same number as the Bot.
 global.isBaileysFail = false
 
-global.developer = 'https://wa.me/+919153068527' //contact
+global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //💌------------------------------------------💌
 
 
@@ -131,15 +131,15 @@ global.developer = 'https://wa.me/+919153068527' //contact
 //Sticker WM
 global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝛥𝐿𝛯𝛸-𝛲𝛪𝛫𝑈-𝛭𝐷🛡️'
+global.princebot = '𝛥𝐿𝛯𝛸-𝛲𝛪𝛫𝑈-𝛭𝐷🛡️'
 global.packname = process.env.PACK_NAME
-global.author = ' 𝙰𝙻𝙴𝚇 𝙿𝙸𝙺𝚄' 
-global.princeig = '' 
-global.princegp = ''
-global.menuvid = 'https://qu.ax/UHAJC.mp4'
-global.Princesc = 'https://github.com/ricky806/PRINCEAI' 
+global.author = '𓆩‎✘𝙰𝙻𝙴𝚇 𝙿𝙸𝙺𝚄✘𓆪' 
+global.princeig = 'https://www.instagram.com' 
+global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
+global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
+global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://qu.ax/ZfXCR.jpg'
+global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
 global.thumb = fs.readFileSync('./lib/source/Prince.png')
 //💌------------------------------------------💌
 
