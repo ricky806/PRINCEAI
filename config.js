@@ -39,7 +39,7 @@ global.itsrose = ['4b146102c4d500809da9d1ff']
 global.baileys = '@whiskeysockets/baileys'
 global.apis = 'https://delirius-apiofc.vercel.app'
 global.openai_key = 'sk-...OzYy' /* Get your ApiKey at this link: https://platform.openai.com/account/api-keys */
-global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
+global.openai_org_id = '0029VaWWlqwBVJl0jljvSd2w'
 //💌------------------------------------------💌
 
 
@@ -87,7 +87,7 @@ global.APIKeys = {
   // 'https://website': 'apikey'
    'https://api.fgmods.xyz': 'm2XBbNvz',
   'https://api.xteam.xyz': 'd90a9e986e18778b',
-  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
+  'https://api.lolhuman.xyz': '0029VaWWlqwBVJl0jljvSd2w',
   'https://api.neoxr.my.id': `${keysneoxr}`,
   'https://violetics.pw': 'beta',
   'https://zenzapis.xyz': `${keysxxx}`
@@ -99,15 +99,15 @@ global.APIKeys = {
 
 
 // Bot Images 
-global.imagen1 = fs.readFileSync("./lib/source/menus/img1.jpg")
-global.imagen2 = fs.readFileSync("./lib/source/menus/img2.jpg")
+global.imagen1 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
+global.imagen2 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
 //💌------------------------------------------💌
 
 
 
-global.imag1 = fs.readFileSync("./lib/source/prn.png")
-global.imag2 = fs.readFileSync("./lib/source/prn1.png")
-global.imag3 = fs.readFileSync("./lib/source/prn2.jpg")
+global.imag1 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
+global.imag2 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
+global.imag3 = fs.readFileSync("https://qu.ax/ZfXCR.jpg")
 
 global.pimg = [imag1, imag2, imag3]
 
